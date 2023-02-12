@@ -1,6 +1,6 @@
 ---
 title: "Computational Bioinformatics"
-baseURL: "https://example.org/"
+baseURL: "https://computationalbioinformatics.com/"
 theme: "zen"
 languageCode: "en-GB"
 defaultContentLanguage: "en"
@@ -12,7 +12,7 @@ rssLimit: 20
 author:
   name: "Oliver Bonham-Carter"
   url: "https://oliverbonhamcarter.com"
-  #avatar: "path/to/some-image.jpg"
+  # avatar: "/dunno.jpg"
 
 outputFormats:
   SearchIndex:
@@ -29,10 +29,10 @@ params:
   contact: "obonhamcarter@allegheny.edu"
   description: "Website for the Junior Seminar to prepare for conducting research project."
   dateformat: "2 January, 2023"
-  favicon: "apple-touch-icon.png"
+  favicon: "logo.png"
   feedlinks: true
-  icon: "apple-touch-icon.png"
-  image: "apple-touch-icon.png"
+#  icon: "apple-touch-icon.png"
+#  image: "apple-touch-icon.png"
   imageMaxWidth: 400
   logoWidth: 64
   mobileMenu: true

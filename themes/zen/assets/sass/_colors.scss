@@ -21,16 +21,16 @@ $brand-dark:            $grey-dark;
 
 // Colour map.
 $colors: (
-  brand:                  $brand,
+  brand:                  $blue, // menu items
   brand-alt:              $brand-alt,
-  brand-dark:             $brand-dark,
-  text:                   $black,
-  text-bg:                $white,
+  brand-dark:             $red, // mouse over colour
+  text:                   $red, // banner text
+  text-bg:                $white, // menu text color
   text-meta:              $grey-dark,
 
   link:                   $black,
   link-visited:           $black,
-  link-hover:             $brand,
+  link-hover:             $red, // side right menu text
   link-active:            $red,
 
   border:                 $grey-light,
@@ -43,7 +43,7 @@ $colors: (
 
   body-bg:                $white,
   header-bg:              $brand,
-  backdrop:               $grey-extra-light,
+  backdrop:               $green, //side margins
 
   mobile-menu:            $brand,
   mobile-menu-cover:      rgba($black, .2),

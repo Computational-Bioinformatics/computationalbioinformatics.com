@@ -1,13 +1,13 @@
 :root {
-  --color-brand: #333333;
+  --color-brand: #0072b9;
   --color-brand-alt: #999999;
-  --color-brand-dark: #666666;
-  --color-text: #000;
+  --color-brand-dark: #c00;
+  --color-text: #c00;
   --color-text-bg: #fff;
   --color-text-meta: #666666;
   --color-link: #000;
   --color-link-visited: #000;
-  --color-link-hover: #333333;
+  --color-link-hover: #c00;
   --color-link-active: #c00;
   --color-border: #cccccc;
   --color-border-dark: #333333;
@@ -17,7 +17,7 @@
   --color-autocomplete-select-bg: #0072b9;
   --color-body-bg: #fff;
   --color-header-bg: #333333;
-  --color-backdrop: #eeeeee;
+  --color-backdrop: #43a808;
   --color-mobile-menu: #333333;
   --color-mobile-menu-cover: rgba(0, 0, 0, 0.2);
   --color-button: #333333;
