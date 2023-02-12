@@ -12,7 +12,7 @@ Note: All the assignments (except for the one concerning voting for readers) are
 
 Researching and reporting on bioinformatics research tools (I)
 
-[Repository]()
+[Repository](https://github.com/Computational-Bioinformatics/01_lab)
 
 ## Objectives
 
@@ -28,7 +28,7 @@ Researching and reporting on bioinformatics research tools (I)
 
 Central Dogma of Biology and Bioinformatics
 
-[Repository]()
+[Repository](https://github.com/Computational-Bioinformatics/02_activity_pythonTutorials_starter)
 
 ## Objectives
 
@@ -41,7 +41,7 @@ Central Dogma of Biology and Bioinformatics
 
 Researching and reporting on bioinformatics research tools (II)
 
-[Repository]()
+[Repository](https://github.com/Computational-Bioinformatics/03_lab)
 
 ## Objectives
 
@@ -54,7 +54,7 @@ Researching and reporting on bioinformatics research tools (II)
 
 What Is This Sequence?
 
-[Repository]()
+[Repository](https://github.com/Computational-Bioinformatics/04_lab_starter)
 
 ## Objectives
 
@@ -67,7 +67,7 @@ What Is This Sequence?
 
 Investigating Online Tools
 
-[Repository]()
+[Repository](https://github.com/Computational-Bioinformatics/05_lab)
 
 ## Objectives
 
@@ -80,7 +80,7 @@ Investigating Online Tools
 
 Ethical Topics in Bioinformatics
 
-[Repository]()
+[Repository](https://github.com/Computational-Bioinformatics/Final_Project)
 
 ## Objectives
 
