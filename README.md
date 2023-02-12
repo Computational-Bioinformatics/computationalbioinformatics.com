@@ -4,7 +4,7 @@
 
 You can clone the repository for the website by running the following command:
 
-`git@github.com:Computational-Bioinformatics/computationalbioinformatics.com.git`
+`git clone git@github.com:Computational-Bioinformatics/computationalbioinformatics.com.git`
 
 Then, you can run the website with build-in hugo server locally:
 
