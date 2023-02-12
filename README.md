@@ -1,11 +1,13 @@
-# Devising Research
+# Computational Bioinformatics
 
 ## Date
 
 ## Installing and Running the Website
+
 You can clone the repository for the website by running the following command:
 
-`git clone https://github.com/Devising-Research/devising-research-website.git`
+`git@github.com:Computational-Bioinformatics/computationalbioinformatics.com.git`
+
 Then, you can run the website with build-in hugo server locally:
 
 `hugo serve`
