@@ -1,0 +1,42 @@
+---
+title: "Devising Research"
+baseURL: "https://example.org/"
+theme: "zen"
+languageCode: "en-GB"
+defaultContentLanguage: "en"
+pluralizelisttitles: false
+removePathAccents: true
+paginate: 10
+paginatePath: "page"
+rssLimit: 20
+author:
+  name: "Oliver Bonham-Carter"
+  url: "https://oliverbonhamcarter.com"
+  #avatar: "path/to/some-image.jpg"
+
+outputFormats:
+  SearchIndex:
+    mediaType: "application/json"
+    baseName: "searchindex"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: ["HTML","RSS", "JSON", "SearchIndex"]
+  section: ["HTML","RSS", "JSON"]
+
+params:
+  contact: "obonhamcarter@allegheny.edu"
+  description: "Website for the Junior Seminar to prepare for conducting research project."
+  dateformat: "2 January, 2023"
+  favicon: "apple-touch-icon.png"
+  feedlinks: true
+  icon: "apple-touch-icon.png"
+  image: "apple-touch-icon.png"
+  imageMaxWidth: 400
+  logoWidth: 64
+  mobileMenu: true
+  poweredby: true
+  realfavicongenerator: true
+  sidebar: true
+  submitted: true
