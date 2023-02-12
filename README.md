@@ -1,7 +1,5 @@
 # Computational Bioinformatics
 
-## Date
-
 ## Installing and Running the Website
 
 You can clone the repository for the website by running the following command:
