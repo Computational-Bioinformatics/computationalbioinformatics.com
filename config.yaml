@@ -13,7 +13,7 @@ author:
   name: "Oliver Bonham-Carter"
   url: "https://oliverbonhamcarter.com"
   # avatar: "/dunno.jpg"
-
+googleAnalytics : "G-CPBL7EBY7G"
 outputFormats:
   SearchIndex:
     mediaType: "application/json"
