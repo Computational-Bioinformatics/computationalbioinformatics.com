@@ -36,7 +36,6 @@ Week | Topic | Reading|
 12 | Final project assignment                    |        |
 12 | Lab: | Hand out|
 13 | Thanksgiving                    |        |
-13 |  | |
 14 | Activity 09 and Activity 10 |        |
 14 | Lab: | Hand out|
 15 | BeagleTM|        |
