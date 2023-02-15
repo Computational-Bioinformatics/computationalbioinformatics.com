@@ -2,7 +2,7 @@
 title: "Research Resources"
 ---
 
-![logo](reddna_small_200.png)
+![DNA logo](/resources/images/reddna_small_200.png)
 
 <!-- add a line drop -->
 <center>

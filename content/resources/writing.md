@@ -5,18 +5,16 @@ title: "Writing Resources"
 #### How can I write better?!
 When completing any assignment in research or in your classes, the quality of your writing is very important. Below are some resources that may help in your writing.
 
+![writer logo](/resources/images/writerinspace.png)
 
-<center>
-<img src="/images/resources/writerinspace.png" alt="JupyterLite" style="width:500px;"/>
-</center>
 
-<!-- [<img src="/images/resources/jlite.png" alt="JupyterLite" style="width:200px;"/>](https://www.oliverbonhamcarter.com/live/) -->
-
-<!-- Note: you can also reach this Python3 play-space using the displayed URL. 
-[<img src="/images/resources/jlite.png" alt="JupyterLite" style="width:200px;"/>https://www.oliverbonhamcarter.com/live](https://www.oliverbonhamcarter.com/live) -->
+<!-- <center>
+<img src="/resourceimages/writerinspace.png" alt="JupyterLite" style="width:500px;"/>
+</center> -->
 
 <!-- add a line drop -->
-<!-- <center> &#x200B; </center> -->
+<center> &#x200B; </center>
+
 ---
 
 #### Online Resources
