@@ -9,16 +9,16 @@ An introduction to the development and application of methods, from the computat
 
 ## Course Objectives
 
-Students learn to begin and complete an academic research project. In this task, students learn how to;
-* Determine ideas for own research projects
-* Locate literature for idea
-* Determine research project goals and research question
-* Assess scope
-* Demonstrate feasibility
-  + Create preliminary data, code, or a product. 
-* Determine next steps in the project
-* Write a proposal
-* Other steps involved with research
+Students successfully completing this class will have developed:
+
+* A “big-picture” view of bioinformatics.
+* An understanding of the objectives and limitations of bioinformatics.
+* An understanding of the biological foundations of bioinformatics (genes and genomes, gene expression, etc.).
+* An understanding of the computational foundations of bioinformatics (programming, databases, etc.).
+* An understanding of how genetic information is obtained and processed.
+* The ability to use basic bioinformatics software tools to study genetic information.
+
+Throughout the semester students also will enhance their ability to write and present ideas about bioinformatics in a clear and compelling fashion. Students will gain practical experience in the design, implementation, and analysis of bioinformatics research during laboratory sessions and a final project. Finally, students will develop a richer understanding of the fascinating connections between biological systems, analysis and automation.
 
 ## An Ethical Interest
 
@@ -26,21 +26,19 @@ Throughout the semester students will be exposed to famous dilemmas in technolog
 
 ## TextBooks
 
-* Deetjen, Thomas A.. Published: A Guide to Literature Review, Outlining, Experimenting, Visualization, Writing, Editing, and Peer Review for Your First Scientific Journal Article. Poland: Productive Academic Press, 2020. ISBN: 9781734493108
-
-* Dupre, L. (2000). BUGS in Writing: A Guide to Debugging Your Prose. United States: Addison-Wesley.
-
-* Evans, D., Zobel, J., Gruba, P. (2014). How to Write a Better Thesis. Germany: Springer International Publishing.
-
-* Gruba, P., Zobel, J. (2017). How To Write Your First Thesis. Germany: Springer International Publishing. ISBN: 978-1-4471-6638-2
-
+* _Exploring Bioinformatics: A Project-based Approach_ by Caroline St. Clair and Jonathan E. Visick.
+* _Think Python_ by Allen B. Downey.
+  + [Textbook](http://greenteapress.com/thinkpython/thinkpython.pdf)
+  + [Publisher Site](http://greenteapress.com/wp/think-python/)
 * Along with reading the required books, you will be asked to study many additional articles from a wide variety of conference proceedings, journals, and the popular press.
 
 ### Other Useful Textbooks
 
-* Think Python, first edition, by Allen B. Downey.
+* Think Python by Allen B. Downey.
   + [Publisher Website](https://greenteapress.com/wp/) -->
 
-* BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
+* _BUGS in Writing: A Guide to Debugging Your Prose_ by Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
 
-* Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
+* _Writing for Computer Science_ (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
+
+* _On Being a Scientist: A Guide to Responsible Conduct in Research_ (Third Edition). Committee on Science, Engineering, and Public Policy, National Academy of Sciences, National Academy of Engineering, and Institute of Medicine. ISBN: 0309119715, 82 pages, 2009. References to the textbook are abbreviated as “OBAS”.
