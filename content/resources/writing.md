@@ -2,11 +2,11 @@
 title: "Writing Resources"
 ---
 
-#### How can I write better?!
-When completing any assignment in research or in your classes, the quality of your writing is very important. Below are some resources that may help in your writing.
-
 ![writer logo](/resources/images/writerinspace.png)
 
+#### How can I write better?!
+
+When completing any assignment in research or in your classes, the quality of your writing is very important. Below are some resources that may help in your writing.
 
 <!-- <center>
 <img src="/resourceimages/writerinspace.png" alt="JupyterLite" style="width:500px;"/>
