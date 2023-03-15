@@ -9,7 +9,7 @@ This site represents a _class in a box_ that you are welcome to use to develop a
 
 Here, you will find a wealth of objectives, notes, assignments, ideas and systems of structure which may help to strengthen your approach to pedagogy, for seemingly any level of teaching.
 
-These materials comprise a course that continues to be developed by [Oliver Bonham-Carter](https://www.oliverbonhamcarter.com/) at Allegheny College in Meadville, Pennsylvania, USA. 
+These materials comprise a course that continues to be developed by [Oliver Bonham-Carter, PhD.](https://www.oliverbonhamcarter.com/) at Allegheny College in Meadville, Pennsylvania, USA. 
 
 If you find these materials helpful, I invite you to use them to the benefit of your students and to enrich your class! 
 
