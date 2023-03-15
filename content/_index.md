@@ -3,6 +3,21 @@ title: "Computational Bioinformatics"
 
 ---
 
+## Introduction
+
+This site represents a _class in a box_ that you are welcome to use to develop and /or apply to your own class of a similar theme.
+
+Here, you will find a wealth of objectives, notes, assignments, ideas and systems of structure which may help to strengthen your approach to pedagogy, for seemingly any level of teaching.
+
+These materials comprise a course that continues to be developed by [Oliver Bonham-Carter](https://www.oliverbonhamcarter.com/) at Allegheny College in Meadville, Pennsylvania, USA. 
+
+If you find these materials helpful, I invite you to use them to the benefit of your students and to enrich your class! 
+
+I look forward to hearing from you if you would like to get in-touch.
+
+* Oliver Bonham-Carter
+* obonhamcarter (a) allegheny (dot) edu
+
 ## Description
 
 An introduction to the development and application of methods, from the computational and information sciences, for the investigation of biological phenomena. In this interdisciplinary course, students integrate computational techniques with biological knowledge to develop and use analytical tools for extracting, organizing, and interpreting information from genetic sequence data. Often participating in team-based and hands-on activities, students implement and apply useful bioinformatics algorithms. During a weekly laboratory session students employ cutting-edge software tools and programming environments to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
