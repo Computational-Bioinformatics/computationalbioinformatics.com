@@ -3,6 +3,8 @@ title: "Computational Bioinformatics"
 
 ---
 
+{{< search >}}
+
 ## Introduction
 
 This site represents a _class in a box_ that you are welcome to use to develop and /or apply to your own class of a similar theme.
