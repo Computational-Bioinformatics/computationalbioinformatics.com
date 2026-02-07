@@ -1,0 +1,10 @@
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.147.8"
+  HUGO_ENV = "production"
+
+[context.production.environment]
+  HUGO_PARAMS_GOOGLEANALYTICS = "G-CPBL7EBY7G"
