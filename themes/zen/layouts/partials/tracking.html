@@ -1,3 +1,4 @@
+{{ $googleAnalytics := site.Params.googleAnalytics | default "" -}}
 {{ $opts := dict
   "minify" true
   "params" (dict
@@ -5,7 +6,7 @@
     "piwikTrackerUrl" site.Params.piwikTrackerUrl
     "piwikSiteID" site.Params.piwikSiteID
     "plausibleSiteID" site.Params.plausibleSiteID
-    "GoogleAnalytics" site.GoogleAnalytics) -}}
+    "GoogleAnalytics" $googleAnalytics) -}}
 {{ if and site.Params.piwikTrackerUrl site.Params.piwikSiteID -}}
 {{ $script := resources.Get "js/tracking.js" | js.Build $opts | fingerprint -}}
 <script src="{{ $script.RelPermalink }}"></script>
@@ -16,8 +17,14 @@
 <script async defer data-domain="{{ site.Params.plausibleSiteID }}" src="{{ site.Params.plausibleTrackerURL | default "https://plausible.io/js/plausible.js" }}"></script>
 {{ end -}}
 
-{{ if site.GoogleAnalytics -}}
+{{ if $googleAnalytics -}}
 {{ $script := resources.Get "js/tracking.js" | js.Build $opts | fingerprint -}}
 <script src="{{ $script.RelPermalink }}"></script>
-{{ template "_internal/google_analytics.html" . }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $googleAnalytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ $googleAnalytics }}');
+</script>
 {{ end -}}

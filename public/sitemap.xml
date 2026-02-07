@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:52454/assignments/</loc>
+  </url><url>
+    <loc>http://localhost:52454/resources/bioinformatics_resources/</loc>
+  </url><url>
+    <loc>http://localhost:52454/resources/career-paths/</loc>
+  </url><url>
+    <loc>http://localhost:52454/categories/</loc>
+  </url><url>
+    <loc>http://localhost:52454/</loc>
+  </url><url>
+    <loc>http://localhost:52454/resources/data-sources/</loc>
+  </url><url>
+    <loc>http://localhost:52454/policy/</loc>
+  </url><url>
+    <loc>http://localhost:52454/resources/</loc>
+  </url><url>
+    <loc>http://localhost:52454/schedule/</loc>
+  </url><url>
+    <loc>http://localhost:52454/search/</loc>
+  </url><url>
+    <loc>http://localhost:52454/tags/</loc>
+  </url><url>
+    <loc>http://localhost:52454/resources/tools-environments/</loc>
+  </url><url>
+    <loc>http://localhost:52454/resources/writing/</loc>
+  </url>
+</urlset>

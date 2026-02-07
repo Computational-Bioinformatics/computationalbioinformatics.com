@@ -6,14 +6,10 @@ languageCode: "en-GB"
 defaultContentLanguage: "en"
 pluralizelisttitles: false
 removePathAccents: true
-paginate: 10
-paginatePath: "page"
+pagination:
+  pagerSize: 10
+  path: "page"
 rssLimit: 20
-author:
-  name: "Oliver Bonham-Carter"
-  url: "https://oliverbonhamcarter.com"
-  # avatar: "/dunno.jpg"
-googleAnalytics : "G-CPBL7EBY7G"
 outputFormats:
   SearchIndex:
     mediaType: "application/json"
@@ -25,11 +21,21 @@ outputs:
   home: ["HTML","RSS", "JSON", "SearchIndex"]
   section: ["HTML","RSS", "JSON"]
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 params:
+  author:
+    name: "Oliver Bonham-Carter"
+    url: "https://oliverbonhamcarter.com"
+    # avatar: "/dunno.jpg"
   contact: "obonhamcarter@allegheny.edu"
   description: "Website for the Junior Seminar to prepare for conducting research project."
   dateformat: "2 January, 2023"
   favicon: "logo.png"
+  googleAnalytics: "G-CPBL7EBY7G"
   feedlinks: true
 #  icon: "apple-touch-icon.png"
 #  image: "apple-touch-icon.png"

@@ -3,6 +3,14 @@ title: "Computational Bioinformatics"
 
 ---
 
+{{< wrapper "hero" "block" >}}
+
+## Computational Bioinformatics
+
+An interdisciplinary, hands-on course that builds research-ready bioinformatics skills.
+
+{{< /wrapper >}}
+
 {{< search >}}
 
 ## Introduction
@@ -11,14 +19,42 @@ This site represents a _class in a box_ that you are welcome to use to develop a
 
 Here, you will find a wealth of objectives, notes, assignments, ideas and systems of structure which may help to strengthen your approach to pedagogy, for seemingly any level of teaching.
 
-These materials comprise a course that continues to be developed by [Oliver Bonham-Carter, PhD.](https://www.oliverbonhamcarter.com/) at Allegheny College in Meadville, Pennsylvania, USA. 
+These materials comprise a course that continues to be developed by [Oliver Bonham-Carter, PhD.](https://www.oliverbonhamcarter.com/) at Allegheny College in Meadville, Pennsylvania, USA.
 
-If you find these materials helpful, I invite you to use them to the benefit of your students and to enrich your class! 
+If you find these materials helpful, I invite you to use them to the benefit of your students and to enrich your class!
 
 I look forward to hearing from you if you would like to get in-touch.
 
 * Oliver Bonham-Carter
 * obonhamcarter (a) allegheny (dot) edu
+
+{{< wrapper "feature-grid" "block" >}}
+
+{{< wrapper "feature-card" "block" >}}
+
+### Interdisciplinary focus
+
+Bridge biology, computing, and data science while building practical analysis skills.
+
+{{< /wrapper >}}
+
+{{< wrapper "feature-card" "block" >}}
+
+### Project-driven labs
+
+Apply algorithms and tools in weekly labs, then report results clearly and ethically.
+
+{{< /wrapper >}}
+
+{{< wrapper "feature-card" "block" >}}
+
+### Research-ready outcomes
+
+Finish with a final project that synthesizes data, methods, and presentation.
+
+{{< /wrapper >}}
+
+{{< /wrapper >}}
 
 ## Description
 
@@ -45,14 +81,14 @@ Throughout the semester students will be exposed to famous dilemmas in technolog
 
 * _Exploring Bioinformatics: A Project-based Approach_ by Caroline St. Clair and Jonathan E. Visick.
 * _Think Python_ by Allen B. Downey.
-  + [Textbook](http://greenteapress.com/thinkpython/thinkpython.pdf)
-  + [Publisher Site](http://greenteapress.com/wp/think-python/)
+  * [Textbook](http://greenteapress.com/thinkpython/thinkpython.pdf)
+  * [Publisher Site](http://greenteapress.com/wp/think-python/)
 * Along with reading the required books, you will be asked to study many additional articles from a wide variety of conference proceedings, journals, and the popular press.
 
 ### Other Useful Textbooks
 
 * Think Python by Allen B. Downey.
-  + [Publisher Website](https://greenteapress.com/wp/) -->
+  * [Publisher Website](https://greenteapress.com/wp/) -->
 
 * _BUGS in Writing: A Guide to Debugging Your Prose_ by Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
 

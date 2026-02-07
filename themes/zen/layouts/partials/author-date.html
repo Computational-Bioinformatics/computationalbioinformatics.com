@@ -1,3 +1,16 @@
-{{ with $.Param "author" }}<span class="author" itemprop="author">{{ . }}</span>{{ end -}}
-{{ if and .Date ($.Param "author") }} - {{ end -}}
+{{ $author := $.Param "author" -}}
+{{ if $author -}}
+	{{ if reflect.IsMap $author -}}
+		{{ $authorName := index $author "name" -}}
+		{{ $authorUrl := index $author "url" -}}
+		{{ if $authorUrl -}}
+			<a class="author" itemprop="author" href="{{ $authorUrl }}">{{ $authorName }}</a>
+		{{ else -}}
+			<span class="author" itemprop="author">{{ $authorName }}</span>
+		{{ end -}}
+	{{ else -}}
+		<span class="author" itemprop="author">{{ $author }}</span>
+	{{ end -}}
+{{ end -}}
+{{ if and .Date $author }} - {{ end -}}
 {{ with .Date }}<time class="created-date" datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ .Format ($.Param "dateformat" | default "2 January, 2006") }}</time>{{ end }}

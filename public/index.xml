@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Bioinformatics</title>
+    <link>http://localhost:52454/</link>
+    <description>Recent content on Computational Bioinformatics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <atom:link href="http://localhost:52454/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Assignments</title>
+      <link>http://localhost:52454/assignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52454/assignments/</guid>
+      <description>&lt;h2 id=&#34;assignments-at-a-glance&#34; class=&#34;anchor-header&#34;&gt;Assignments at a Glance &lt;a class=&#34;anchor-link&#34; href=&#34;#assignments-at-a-glance&#34; aria-label=&#34;Assignments at a Glance&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;All assignments are hosted in the course GitHub organization. Use the cards below to jump to each repository.&lt;/p&gt;
+&lt;div class=&#34;feature-grid&#34;&gt;&lt;div class=&#34;feature-card&#34;&gt;&lt;h3 id=&#34;assignment-1&#34; class=&#34;anchor-header&#34;&gt;Assignment 1 &lt;a class=&#34;anchor-link&#34; href=&#34;#assignment-1&#34; aria-label=&#34;Assignment 1&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Researching and reporting on bioinformatics research tools (I).&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;button button--small button--outline&#34; href=&#34;https://github.com/Computational-Bioinformatics/01_lab&#34;&gt;Repository&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;objectives&#34; class=&#34;anchor-header&#34;&gt;Objectives &lt;a class=&#34;anchor-link&#34; href=&#34;#objectives&#34; aria-label=&#34;Objectives&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Use JupyterLite to pull, complete, and submit homework.&lt;/li&gt;
+&lt;li&gt;Use GitHub and &lt;code&gt;git&lt;/code&gt; to manage submissions.&lt;/li&gt;
+&lt;li&gt;Make a basic edit to a Python program.&lt;/li&gt;
+&lt;li&gt;Research and report on bioinformatics tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;feature-card&#34;&gt;&lt;h3 id=&#34;assignment-2&#34; class=&#34;anchor-header&#34;&gt;Assignment 2 &lt;a class=&#34;anchor-link&#34; href=&#34;#assignment-2&#34; aria-label=&#34;Assignment 2&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Central Dogma of Biology and Bioinformatics.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;button button--small button--outline&#34; href=&#34;https://github.com/Computational-Bioinformatics/02_activity_pythonTutorials_starter&#34;&gt;Repository&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;objectives&#34; class=&#34;anchor-header&#34;&gt;Objectives &lt;a class=&#34;anchor-link&#34; href=&#34;#objectives&#34; aria-label=&#34;Objectives&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Connect the Central Dogma of Biology to bioinformatics practice.&lt;/li&gt;
+&lt;li&gt;Explore Python debugging and problem-solving strategies.&lt;/li&gt;
+&lt;li&gt;Run sequence experiments using starter code.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;feature-card&#34;&gt;&lt;h3 id=&#34;assignment-3&#34; class=&#34;anchor-header&#34;&gt;Assignment 3 &lt;a class=&#34;anchor-link&#34; href=&#34;#assignment-3&#34; aria-label=&#34;Assignment 3&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Researching and reporting on bioinformatics research tools (II).&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;button button--small button--outline&#34; href=&#34;https://github.com/Computational-Bioinformatics/03_lab&#34;&gt;Repository&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;objectives&#34; class=&#34;anchor-header&#34;&gt;Objectives &lt;a class=&#34;anchor-link&#34; href=&#34;#objectives&#34; aria-label=&#34;Objectives&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify tools for specific research tasks.&lt;/li&gt;
+&lt;li&gt;Present and explain a tool to peers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;feature-card&#34;&gt;&lt;h3 id=&#34;assignment-4&#34; class=&#34;anchor-header&#34;&gt;Assignment 4 &lt;a class=&#34;anchor-link&#34; href=&#34;#assignment-4&#34; aria-label=&#34;Assignment 4&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;What Is This Sequence?&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;button button--small button--outline&#34; href=&#34;https://github.com/Computational-Bioinformatics/04_lab_starter&#34;&gt;Repository&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;objectives&#34; class=&#34;anchor-header&#34;&gt;Objectives &lt;a class=&#34;anchor-link&#34; href=&#34;#objectives&#34; aria-label=&#34;Objectives&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Investigate sequence data using online and local analysis tools.&lt;/li&gt;
+&lt;li&gt;Interpret software output to identify sequence origins.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;feature-card&#34;&gt;&lt;h3 id=&#34;assignment-5&#34; class=&#34;anchor-header&#34;&gt;Assignment 5 &lt;a class=&#34;anchor-link&#34; href=&#34;#assignment-5&#34; aria-label=&#34;Assignment 5&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Investigating Online Tools.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;button button--small button--outline&#34; href=&#34;https://github.com/Computational-Bioinformatics/05_lab&#34;&gt;Repository&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;objectives&#34; class=&#34;anchor-header&#34;&gt;Objectives &lt;a class=&#34;anchor-link&#34; href=&#34;#objectives&#34; aria-label=&#34;Objectives&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Read literature and summarize relevant science.&lt;/li&gt;
+&lt;li&gt;Install and apply software tools to datasets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;feature-card&#34;&gt;&lt;h3 id=&#34;assignment-6&#34; class=&#34;anchor-header&#34;&gt;Assignment 6 &lt;a class=&#34;anchor-link&#34; href=&#34;#assignment-6&#34; aria-label=&#34;Assignment 6&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Ethical Topics in Bioinformatics.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;button button--small button--outline&#34; href=&#34;https://github.com/Computational-Bioinformatics/Final_Project&#34;&gt;Repository&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;objectives&#34; class=&#34;anchor-header&#34;&gt;Objectives &lt;a class=&#34;anchor-link&#34; href=&#34;#objectives&#34; aria-label=&#34;Objectives&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Read literature and gather supporting evidence.&lt;/li&gt;
+&lt;li&gt;Identify ethical dilemmas in bioinformatics research.&lt;/li&gt;
+&lt;li&gt;Evaluate outcomes in terms of fairness and accountability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics Resources</title>
+      <link>http://localhost:52454/resources/bioinformatics_resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52454/resources/bioinformatics_resources/</guid>
+      <description>&lt;p&gt;Welcome to a resources page for bioinformatics research. Here you will find links for data, tools, tutorials, and related resources that may be helpful to your work.&lt;/p&gt;
+&lt;h2 id=&#34;software-and-installations&#34; class=&#34;anchor-header&#34;&gt;Software and installations &lt;a class=&#34;anchor-link&#34; href=&#34;#software-and-installations&#34; aria-label=&#34;Software and installations&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://posit.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;RStudio&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;R Programming Language&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.python.org/downloads/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Python Programming Language&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mac.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Git for Mac&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://windows.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Git for Windows&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Git for all platforms&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pythonforbiologists.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Python for Biologists&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://biopython.org/DIST/docs/tutorial/Tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;BioPython&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;python-programming-resources&#34; class=&#34;anchor-header&#34;&gt;Python programming resources &lt;a class=&#34;anchor-link&#34; href=&#34;#python-programming-resources&#34; aria-label=&#34;Python programming resources&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Play with code from W3&amp;rsquo;s &lt;a href=&#34;https://www.w3schools.com/python/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Python Tutorial&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Write code locally using &lt;a href=&#34;http://oliverbonhamcarter.com/live/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Jupyter Interactive Python&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Think Python by Allen B. Downey: &lt;a href=&#34;https://greenteapress.com/wp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Publisher Website&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.python.org/downloads/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Python Programming Language&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jdoodle.com/execute-r-online/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Online R programming&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;articles&#34; class=&#34;anchor-header&#34;&gt;Articles &lt;a class=&#34;anchor-link&#34; href=&#34;#articles&#34; aria-label=&#34;Articles&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.markdownguide.org/getting-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Getting started with Markdown&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tutorials&#34; class=&#34;anchor-header&#34;&gt;Tutorials &lt;a class=&#34;anchor-link&#34; href=&#34;#tutorials&#34; aria-label=&#34;Tutorials&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Allegheny College Department of Computer Science tutorials&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Coding Train&amp;rsquo;s Git and GitHub for Poets&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-20-04&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Setting Up Git on Linux&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://swcarpentry.github.io/git-novice/02-setup/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Setting up Git&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/docs/python/python-tutorial&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Getting Started with Python in VS Code&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://towardsthecloud.com/best-vscode-extensions-python&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;11 Best VS Code extensions for Python (2022)&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ssh.com/ssh/keygen/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SSH keys&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qEPjUGQFmzQ&amp;amp;list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Luman&amp;rsquo;s SSH keys video tutorial&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tools-and-learning-links&#34; class=&#34;anchor-header&#34;&gt;Tools and learning links &lt;a class=&#34;anchor-link&#34; href=&#34;#tools-and-learning-links&#34; aria-label=&#34;Tools and learning links&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.biointeractive.org/classroom-resources/virus-explorer&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Virus Explorer&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tcoffee.crg.cat/apps/tcoffee/tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;TCoffee tutorial&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=TPRoLreU9lA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Hidden Markov Models (YouTube)&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://media.hhmi.org/biointeractive/films/Double_Helix.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Double Helix (documentary, 17 mins)&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.biointeractive.org/classroom-resources/chemical-structure-dna&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Chemical Structure of DNA&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=o_-6JXLYS-k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Structure of DNA&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qWZYpHSXvJo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Definition of 5&amp;rsquo; and 3&amp;rsquo; end of DNA (video)&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vP8-5Bhd2ag&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;What happens when your DNA is damaged?&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BBI7GoIyoog&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Mutations and Natural Selection&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=NDIJexTT9j0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Protein synthesis animation&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lungendothelialcellatlas.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Lung Endothelial Cell Atlas&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.copdcellatlas.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;COPD Cell Atlas&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.covidcellatlas.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;COVID Cell Atlas&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ipfcellatlas.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Idiopathic Pulmonary Fibrosis Cell Atlas&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kazusa.or.jp/codon/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Codon Usage Database&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://card.mcmaster.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Comprehensive Antibiotic Resistance Database&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://card.mcmaster.ca/ontology/36514&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ermB anti resistance gene&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.expasy.org/sim/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SIM alignment tool&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://card.mcmaster.ca/analyze&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Blast analysis&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.diamondsearch.org/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Diamond (BLAST alternative)&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hmmer.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;HMMER&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://geneontology.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Gene Ontology Resource&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pantherdb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Panther Classification System&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blast.ncbi.nlm.nih.gov/Blast.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;BLAST&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.genome.jp/tools/egassembler/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;EGassembler&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://elm.eu.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ELM tool kit&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rcsb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Protein Data Bank&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://open.predictprotein.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Predict protein&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://string-db.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;String database&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://prosite.expasy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Prosite: domains, families, and functional sites&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://experiments.mostafa.io/public/needleman-wunsch/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Needleman-Wunsch algorithm demo&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ugene.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;UGENE&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://thecellmap.org/?q=pex6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Cell Map&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://amigo.geneontology.org/amigo/landing&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;AmiGo Gene Ontology&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ghr.nlm.nih.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Genetics Home Reference&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nesg.org/galleries.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Northeast Structural Genomics Consortium&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://modbase.compbio.ucsf.edu/modeval/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ModEval&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pymol.org/2/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PyMol&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiime2.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Qiime2&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://go.drugbank.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DrugBank&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bioinf.uni-greifswald.de/augustus/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Augustus gene prediction&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-organizations&#34; class=&#34;anchor-header&#34;&gt;Research organizations &lt;a class=&#34;anchor-link&#34; href=&#34;#research-organizations&#34; aria-label=&#34;Research organizations&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://knowyourdna.com/cataracts-and-genetics/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Cataracts and Genetics&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.genome.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;National Human Genome Research Institute&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.molgen.mpg.de/2168/en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Max Planck Institute for Molecular Genetics&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;note&#34; class=&#34;anchor-header&#34;&gt;Note &lt;a class=&#34;anchor-link&#34; href=&#34;#note&#34; aria-label=&#34;Note&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;If you find a good link for bioinformatics research that you believe would fit nicely here, please let me know.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Career Paths</title>
+      <link>http://localhost:52454/resources/career-paths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52454/resources/career-paths/</guid>
+      <description>&lt;h1 id=&#34;bioinformatics-career-paths&#34; class=&#34;anchor-header&#34;&gt;Bioinformatics Career Paths &lt;a class=&#34;anchor-link&#34; href=&#34;#bioinformatics-career-paths&#34; aria-label=&#34;Bioinformatics Career Paths&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This page gives a quick overview of roles, skills, and entry points in computational biology and bioinformatics.&lt;/p&gt;
+&lt;h2 id=&#34;roles-you-might-see&#34; class=&#34;anchor-header&#34;&gt;Roles you might see &lt;a class=&#34;anchor-link&#34; href=&#34;#roles-you-might-see&#34; aria-label=&#34;Roles you might see&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bioinformatics Analyst&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Focus: data cleaning, pipelines, and reports.&lt;/li&gt;
+&lt;li&gt;Typical tools: Python, R, Bash, SQL, workflow tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Computational Biologist&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Focus: algorithm development, research modeling, and analysis.&lt;/li&gt;
+&lt;li&gt;Typical tools: Python, R, statistics, machine learning basics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Genomics Data Scientist&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Focus: high-throughput sequencing, ML, and reproducible analytics.&lt;/li&gt;
+&lt;li&gt;Typical tools: Python, R, ML libraries, cloud platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bioinformatics Software Engineer&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Focus: production software, APIs, and data systems.&lt;/li&gt;
+&lt;li&gt;Typical tools: Python, Go, Java, Docker, CI/CD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clinical Genomics Specialist&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Focus: variant interpretation, regulated pipelines, clinical reporting.&lt;/li&gt;
+&lt;li&gt;Typical tools: standards (HGVS), ClinVar, pipelines, QC.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;core-skills-to-build-in-this-course&#34; class=&#34;anchor-header&#34;&gt;Core skills to build in this course &lt;a class=&#34;anchor-link&#34; href=&#34;#core-skills-to-build-in-this-course&#34; aria-label=&#34;Core skills to build in this course&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Sequence alignment, assembly, and annotation basics.&lt;/li&gt;
+&lt;li&gt;Data handling and reproducible analysis with notebooks.&lt;/li&gt;
+&lt;li&gt;Clear reporting: methods, results, and limitations.&lt;/li&gt;
+&lt;li&gt;Ethical data use, privacy, and bias awareness.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-prepare&#34; class=&#34;anchor-header&#34;&gt;How to prepare &lt;a class=&#34;anchor-link&#34; href=&#34;#how-to-prepare&#34; aria-label=&#34;How to prepare&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Build a small portfolio: 2 to 3 notebooks or reports.&lt;/li&gt;
+&lt;li&gt;Practice writing short analysis summaries for non-technical readers.&lt;/li&gt;
+&lt;li&gt;Learn the command line and Git basics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;where-to-look-for-roles&#34; class=&#34;anchor-header&#34;&gt;Where to look for roles &lt;a class=&#34;anchor-link&#34; href=&#34;#where-to-look-for-roles&#34; aria-label=&#34;Where to look for roles&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Academic labs and research institutes.&lt;/li&gt;
+&lt;li&gt;Biotech and pharma companies.&lt;/li&gt;
+&lt;li&gt;Hospitals and clinical genomics labs.&lt;/li&gt;
+&lt;li&gt;Government or public health agencies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;example-job-boards&#34; class=&#34;anchor-header&#34;&gt;Example job boards &lt;a class=&#34;anchor-link&#34; href=&#34;#example-job-boards&#34; aria-label=&#34;Example job boards&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iscb.org/careers&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.iscb.org/careers&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ebi.ac.uk/careers&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ebi.ac.uk/careers&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/naturecareers&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.nature.com/naturecareers&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/jobs/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.linkedin.com/jobs/&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;suggested-class-activity&#34; class=&#34;anchor-header&#34;&gt;Suggested class activity &lt;a class=&#34;anchor-link&#34; href=&#34;#suggested-class-activity&#34; aria-label=&#34;Suggested class activity&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Find one job posting and map the required skills to course topics.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Sources</title>
+      <link>http://localhost:52454/resources/data-sources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52454/resources/data-sources/</guid>
+      <description>&lt;h1 id=&#34;data-sources-for-bioinformatics&#34; class=&#34;anchor-header&#34;&gt;Data Sources for Bioinformatics &lt;a class=&#34;anchor-link&#34; href=&#34;#data-sources-for-bioinformatics&#34; aria-label=&#34;Data Sources for Bioinformatics&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This page lists reliable datasets and databases for sequence, structure, expression, and pathway analysis. Each resource includes common use cases and citation guidance.&lt;/p&gt;
+&lt;h2 id=&#34;core-sequence-and-genome-resources&#34; class=&#34;anchor-header&#34;&gt;Core sequence and genome resources &lt;a class=&#34;anchor-link&#34; href=&#34;#core-sequence-and-genome-resources&#34; aria-label=&#34;Core sequence and genome resources&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;NCBI&lt;/strong&gt; (GenBank, RefSeq, GEO, SRA)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ncbi.nlm.nih.gov/&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Use for: general sequence records, curated reference genomes, gene expression data, and raw reads.&lt;/li&gt;
+&lt;li&gt;Cite: follow the dataset accession page; many provide a preferred citation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ENA&lt;/strong&gt; (European Nucleotide Archive)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ebi.ac.uk/ena/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ebi.ac.uk/ena/&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Use for: raw sequencing data and assembled sequences.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ensembl&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ensembl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ensembl.org/&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Use for: genome browsers, annotations, comparative genomics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UCSC Genome Browser&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://genome.ucsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://genome.ucsc.edu/&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Use for: visualization, genome tracks, custom annotations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;protein-structure-and-function&#34; class=&#34;anchor-header&#34;&gt;Protein, structure, and function &lt;a class=&#34;anchor-link&#34; href=&#34;#protein-structure-and-function&#34; aria-label=&#34;Protein, structure, and function&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;UniProt&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.uniprot.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.uniprot.org/&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Use for: protein sequences, function, and cross references.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PDB&lt;/strong&gt; (Protein Data Bank)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rcsb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.rcsb.org/&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Use for: 3D protein and nucleic acid structures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AlphaFold DB&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://alphafold.ebi.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://alphafold.ebi.ac.uk/&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Use for: predicted protein structures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;InterPro&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ebi.ac.uk/interpro/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ebi.ac.uk/interpro/&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Use for: domains, families, and functional analysis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;expression-variation-and-pathways&#34; class=&#34;anchor-header&#34;&gt;Expression, variation, and pathways &lt;a class=&#34;anchor-link&#34; href=&#34;#expression-variation-and-pathways&#34; aria-label=&#34;Expression, variation, and pathways&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GEO&lt;/strong&gt; (Gene Expression Omnibus)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/geo/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ncbi.nlm.nih.gov/geo/&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Use for: microarray and RNA-seq expression datasets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GTEx&lt;/strong&gt; (Genotype-Tissue Expression)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gtexportal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://gtexportal.org/&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Use for: tissue-specific expression patterns.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ClinVar&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/clinvar/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.ncbi.nlm.nih.gov/clinvar/&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Use for: variant clinical significance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;KEGG&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kegg.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.kegg.jp/&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Use for: pathways, reactions, and pathway maps.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reactome&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://reactome.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://reactome.org/&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Use for: curated biological pathways.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;citation-tips&#34; class=&#34;anchor-header&#34;&gt;Citation tips &lt;a class=&#34;anchor-link&#34; href=&#34;#citation-tips&#34; aria-label=&#34;Citation tips&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prefer accession numbers over informal dataset names.&lt;/li&gt;
+&lt;li&gt;Check the dataset page for a citation or DOI.&lt;/li&gt;
+&lt;li&gt;Include database name and version when available.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;suggested-class-activities&#34; class=&#34;anchor-header&#34;&gt;Suggested class activities &lt;a class=&#34;anchor-link&#34; href=&#34;#suggested-class-activities&#34; aria-label=&#34;Suggested class activities&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pick one database and write a short guide: what it stores, how to search it, and how to cite it.&lt;/li&gt;
+&lt;li&gt;Compare two sources for the same gene or protein and note differences in annotation.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Policy</title>
+      <link>http://localhost:52454/policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52454/policy/</guid>
+      <description>&lt;h2 id=&#34;policies&#34; class=&#34;anchor-header&#34;&gt;Policies &lt;a class=&#34;anchor-link&#34; href=&#34;#policies&#34; aria-label=&#34;Policies&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;details&gt;
+&lt;summary&gt;Grading&lt;/summary&gt;
+&lt;p&gt;The grade that a student receives in this class will be based on the following categories. All percentages are approximate and may change during the academic semester.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Category&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Percentage&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Assessment metric&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Class Participation&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;10%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;check mark grade&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Exams&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;letter grade&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Lab Assignments&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;40%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;letter grade&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Final Project&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;30%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;letter grade&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Total&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;100%&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;grading-scale&#34; class=&#34;anchor-header&#34;&gt;Grading Scale &lt;a class=&#34;anchor-link&#34; href=&#34;#grading-scale&#34; aria-label=&#34;Grading Scale&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h4&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Letter&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Range&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Letter&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Range&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Letter&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Range&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;A&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;96 - 100&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;A-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;90 - 95.9&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;B+&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;87 - 89.9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;B&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;83 - 86.9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;B-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;80 - 82.9&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;C+&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;77 - 79.9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;C&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;73 - 76.9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;C-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;70 - 72.9&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;D+&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;67 - 69.9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;D&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;63 - 66.9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;F&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;59.9 and below&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Definitions of Grading Categories&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Class Participation&lt;/strong&gt;: Active participation during class sessions, including questions, exercises, presentations, and leading discussions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exams&lt;/strong&gt;: Cover material in their associated module(s). Dates are announced at least one week in advance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Laboratory Assignments&lt;/strong&gt;: Explore concepts, tools, and techniques in bioinformatics. Assignments may be completed in teams and may require presentations or demonstrations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Final Project&lt;/strong&gt;: A complete bioinformatics solution to a specific problem. Details are provided approximately two months before finals.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Assignment Submission&lt;/summary&gt;
+&lt;p&gt;We will use GitHub Classroom to collect assignments. It is expected that you can use &lt;code&gt;git&lt;/code&gt; to submit your work. Ask peers, Technology Leaders, or the instructor if you need help.&lt;/p&gt;
+&lt;p&gt;All assignments have a due date and are submitted at the beginning of the lab session. Late submissions are accepted for up to one week with a 15% penalty and must be submitted at the beginning of the session one week after the due date.&lt;/p&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Extensions&lt;/summary&gt;
+&lt;p&gt;No assignments are accepted after the late deadline without prior arrangements. If you request an extension, email the instructor before the due date with a valid reason. Extensions are 24 hours and are granted at the instructor&amp;rsquo;s discretion.&lt;/p&gt;
+&lt;p&gt;The submission of homework includes the Honor Code pledge. Group assignments require a one-page reflection describing each member&amp;rsquo;s contribution.&lt;/p&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Extenuating Circumstances&lt;/summary&gt;
+&lt;p&gt;If circumstances interfere with your ability to prepare for class or complete assignments, contact the instructor immediately. You may also find these campus resources helpful:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.allegheny.edu/learningcommons/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Maytum Center for Student Success&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.allegheny.edu/learningcommons/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Allegheny College Counseling Center&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.allegheny.edu/healthcenter/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Winslow Health Center&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.allegheny.edu/studentlife/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Student Life&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Communication&lt;/summary&gt;
+&lt;p&gt;We will use email, Discord, and the GitHub issue tracker. Install the Discord app to receive timely updates.&lt;/p&gt;
+&lt;p&gt;The course website stores the syllabus, schedule, and information about the &lt;code&gt;classDocs/&lt;/code&gt; repository. Grades are communicated through a Gradebook GitHub repository.&lt;/p&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Bring Your Own Computer&lt;/summary&gt;
+&lt;p&gt;The Department of Computer Science does not provide student machines. Bring a wifi-ready device to class. If the class meets online, make sure your system supports Zoom and other required services.&lt;/p&gt;
+&lt;p&gt;You will be asked to install software during the semester, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Git and GitHub&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/download&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;VS Code&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.docker.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Docker&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/get-docker/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Installing Docker&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.docker.com/101-tutorial&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Basic tutorial from Docker&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://labs.play-with-docker.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Play with Docker&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Special Needs and Disability Services&lt;/summary&gt;
+&lt;p&gt;The Americans with Disabilities Act (ADA) requires reasonable accommodations. Students who need accommodations are encouraged to contact Disability Services at 332-2898. Disability Services is part of the Learning Commons in Pelletier Library.&lt;/p&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Honor Code&lt;/summary&gt;
+&lt;p&gt;The Academic Honor Program applies to all work submitted for academic credit and includes examinations, laboratory assignments, and the final project. Each student acknowledges the Honor Code pledge:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I hereby recognize and pledge to fulfill my responsibilities, as defined in the Honor Code, and to maintain the integrity of both myself and the College community as a whole.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Discussing work with classmates is encouraged, but submitting work identical to others is a violation. More information is available at the &lt;a href=&#34;https://sites.allegheny.edu/studentsuccess/academic-honor-program/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Maytum Center for Student Success&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;/details&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>http://localhost:52454/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52454/schedule/</guid>
+      <description>&lt;h2 id=&#34;schedule&#34; class=&#34;anchor-header&#34;&gt;Schedule &lt;a class=&#34;anchor-link&#34; href=&#34;#schedule&#34; aria-label=&#34;Schedule&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Below is a tentative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Week 1&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: Introduction to the course and careers.&lt;/li&gt;
+&lt;li&gt;Lab: No lab.&lt;/li&gt;
+&lt;li&gt;Reading: Read the syllabus.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/resources/career-paths/&#34;&gt;Career Paths&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 2&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: DNA basics, Central Dogma, replication, Activity 01.&lt;/li&gt;
+&lt;li&gt;Lab: Software tools.&lt;/li&gt;
+&lt;li&gt;Reading: Chapter 1.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/resources/tools-environments/&#34;&gt;Tools and Environments&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 3&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: BioPython basics, Activity 02.&lt;/li&gt;
+&lt;li&gt;Lab: BioPython and silent mutations.&lt;/li&gt;
+&lt;li&gt;Reading: Chapter 1.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/assignments/&#34;&gt;Assignments&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 4&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: Reading frames, mutations, sequence alignment, Activity 03.&lt;/li&gt;
+&lt;li&gt;Lab: Tool intro and presentation.&lt;/li&gt;
+&lt;li&gt;Reading: Chapters 2 and 3.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/resources/data-sources/&#34;&gt;Data Sources&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 5&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: Sequence alignment and Needleman-Wunsch (global alignment).&lt;/li&gt;
+&lt;li&gt;Lab: No new assignment.&lt;/li&gt;
+&lt;li&gt;Reading: Chapter 3.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/resources/bioinformatics_resources/&#34;&gt;Bioinformatics Resources&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 6&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: Biopython and sequence alignment, Activity 04.&lt;/li&gt;
+&lt;li&gt;Lab: Sequence analysis.&lt;/li&gt;
+&lt;li&gt;Reading: Chapters 3 and 4.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/assignments/&#34;&gt;Assignments&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 7&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: Fall break, no class.&lt;/li&gt;
+&lt;li&gt;Lab: No lab.&lt;/li&gt;
+&lt;li&gt;Activity: Activity 05 BuildADatabase.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/assignments/&#34;&gt;Assignments&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 8&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: BLAST and protein BLAST.&lt;/li&gt;
+&lt;li&gt;Lab: Article and tool.&lt;/li&gt;
+&lt;li&gt;Reading: Chapters 4 and 5.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/resources/bioinformatics_resources/&#34;&gt;Bioinformatics Resources&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 9&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: Substitution matrices (PAM, BLOSUM). Test week: Activity 06 (video).&lt;/li&gt;
+&lt;li&gt;Lab: See last week&amp;rsquo;s lab.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/assignments/&#34;&gt;Assignments&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 10&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: Gene assembly, &lt;a href=&#34;https://classroom.github.com/a/KHpM-Nhi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Activity 07&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;Lab: &lt;a href=&#34;https://classroom.github.com/a/VNZ2geci&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ethics in Bioinformatics Research&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;Reading: Chapters 8 and 9.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/resources/writing/&#34;&gt;Writing Resources&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 11&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: Protein research websites, Activity 08.&lt;/li&gt;
+&lt;li&gt;Lab: Hand out.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/resources/data-sources/&#34;&gt;Data Sources&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 12&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: Final project assignment.&lt;/li&gt;
+&lt;li&gt;Lab: Hand out.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/assignments/&#34;&gt;Assignments&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 13&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: Thanksgiving.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/resources/&#34;&gt;Research Resources&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 14&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: Activity 09 and Activity 10.&lt;/li&gt;
+&lt;li&gt;Lab: Hand out.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/assignments/&#34;&gt;Assignments&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 15&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: BeagleTM.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/resources/bioinformatics_resources/&#34;&gt;Bioinformatics Resources&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Week 16&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture: Course summary.&lt;/li&gt;
+&lt;li&gt;Presentations.&lt;/li&gt;
+&lt;li&gt;Learn more: &lt;a href=&#34;http://localhost:52454/resources/writing/&#34;&gt;Writing Resources&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/details&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://localhost:52454/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52454/search/</guid>
+      <description>&lt;p class=&#34;error message js-hidden&#34;&gt;You must have Javascript enabled to use this function.&lt;/p&gt;
+&lt;p class=&#34;search-loading status message hidden&#34;&gt;Loading search index…&lt;/p&gt;
+
+&lt;div class=&#34;search-input hidden&#34;&gt;
+  &lt;form id=&#34;search-form&#34; class=&#34;search-form&#34; action=&#34;#&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34; role=&#34;search&#34;&gt;
+    &lt;label for=&#34;query&#34; class=&#34;visually-hidden&#34;&gt;Search&lt;/label&gt;
+    &lt;input type=&#34;search&#34; id=&#34;query&#34; name=&#34;query&#34; class=&#34;search-text&#34; placeholder=&#34;Enter the terms you wish to search for.&#34; maxlength=&#34;128&#34;&gt;
+    &lt;button type=&#34;submit&#34; name=&#34;submit&#34; class=&#34;form-submit&#34; &gt;Search&lt;/button&gt;
+  &lt;/form&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;search-results&#34;&gt;&lt;/div&gt;
+
+&lt;template&gt;
+  &lt;article class=&#34;search-result list-view&#34;&gt;
+    &lt;header&gt;
+      &lt;h2 class=&#34;title title-submitted&#34;&gt;&lt;a href=&#34;#&#34;&gt;Title here&lt;/a&gt;&lt;/h2&gt;
+      &lt;div class=&#34;submitted&#34;&gt;&lt;time class=&#34;created-date&#34;&gt;Date here&lt;/time&gt;&lt;/div&gt;
+    &lt;/header&gt;
+    &lt;div class=&#34;content&#34;&gt;Summary here&lt;/div&gt;
+  &lt;/article&gt;
+&lt;/template&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Tools and Environments</title>
+      <link>http://localhost:52454/resources/tools-environments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52454/resources/tools-environments/</guid>
+      <description>&lt;h1 id=&#34;tools-and-environments&#34; class=&#34;anchor-header&#34;&gt;Tools and Environments &lt;a class=&#34;anchor-link&#34; href=&#34;#tools-and-environments&#34; aria-label=&#34;Tools and Environments&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This page describes a recommended setup for course work and a checklist for getting started.&lt;/p&gt;
+&lt;h2 id=&#34;recommended-software&#34; class=&#34;anchor-header&#34;&gt;Recommended software &lt;a class=&#34;anchor-link&#34; href=&#34;#recommended-software&#34; aria-label=&#34;Recommended software&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Miniconda&lt;/strong&gt; or &lt;strong&gt;Mamba&lt;/strong&gt; for package management.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.conda.io/en/latest/miniconda.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://docs.conda.io/en/latest/miniconda.html&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mamba.readthedocs.io/en/latest/installation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://mamba.readthedocs.io/en/latest/installation.html&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python 3.11+&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Core language for notebooks and scripting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jupyter&lt;/strong&gt; (Lab or Notebook)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jupyter.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://jupyter.org/&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Git + GitHub&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://git-scm.com/&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://github.com/&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BLAST&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blast.ncbi.nlm.nih.gov/Blast.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://blast.ncbi.nlm.nih.gov/Blast.cgi&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Biopython&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://biopython.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://biopython.org/&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;suggested-environment-checklist&#34; class=&#34;anchor-header&#34;&gt;Suggested environment checklist &lt;a class=&#34;anchor-link&#34; href=&#34;#suggested-environment-checklist&#34; aria-label=&#34;Suggested environment checklist&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Install Python and a package manager.&lt;/li&gt;
+&lt;li&gt;Create a new environment for this course.&lt;/li&gt;
+&lt;li&gt;Install core libraries: &lt;code&gt;biopython&lt;/code&gt;, &lt;code&gt;pandas&lt;/code&gt;, &lt;code&gt;numpy&lt;/code&gt;, &lt;code&gt;matplotlib&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Open a notebook and run a short test script.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;example-conda-workflow&#34; class=&#34;anchor-header&#34;&gt;Example conda workflow &lt;a class=&#34;anchor-link&#34; href=&#34;#example-conda-workflow&#34; aria-label=&#34;Example conda workflow&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;conda create -n bioinfo python&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;3.11
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;conda activate bioinfo
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;conda install biopython pandas numpy matplotlib
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;pip install jupyterlab
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;reproducibility-tips&#34; class=&#34;anchor-header&#34;&gt;Reproducibility tips &lt;a class=&#34;anchor-link&#34; href=&#34;#reproducibility-tips&#34; aria-label=&#34;Reproducibility tips&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Keep environment files (e.g., &lt;code&gt;environment.yml&lt;/code&gt;).&lt;/li&gt;
+&lt;li&gt;Record software versions in reports.&lt;/li&gt;
+&lt;li&gt;Use clear file naming and folder structure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;suggested-class-activity&#34; class=&#34;anchor-header&#34;&gt;Suggested class activity &lt;a class=&#34;anchor-link&#34; href=&#34;#suggested-class-activity&#34; aria-label=&#34;Suggested class activity&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Set up a new environment and run a short sequence parsing script.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing Resources</title>
+      <link>http://localhost:52454/resources/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52454/resources/writing/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:52454/resources/images/writerinspace.png&#34; alt=&#34;writer logo&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;how-can-i-write-better&#34; class=&#34;anchor-header&#34;&gt;How can I write better? &lt;a class=&#34;anchor-link&#34; href=&#34;#how-can-i-write-better&#34; aria-label=&#34;How can I write better?&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;When completing any assignment in research or in your classes, the quality of your writing is very important. Below are resources that may help you improve clarity, structure, and academic style.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;online-resources&#34; class=&#34;anchor-header&#34;&gt;Online resources &lt;a class=&#34;anchor-link&#34; href=&#34;#online-resources&#34; aria-label=&#34;Online resources&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;anchor-icon&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;
+  &lt;path d=&#34;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&#34; /&gt;
+  &lt;path d=&#34;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&#34; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Maytum Center for Student Success&lt;/strong&gt;: Writing and Speaking Consultants at Allegheny College&amp;rsquo;s &lt;a href=&#34;https://sites.allegheny.edu/studentsuccess/writing-speech/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Writing Center&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;University of Maryland&lt;/strong&gt;: &lt;a href=&#34;https://www.umgc.edu/current-students/learning-resources/writing-center/online-guide-to-writing/tutorial/chapter4/ch4-06#:~:text=Research%20resources%20are%20found%20in,sources%20found%20on%20the%20Internet.&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Online Guide to Writing&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,82 +2,90 @@
 // stylelint-disable scss/dollar-variable-colon-space-after, scss/dollar-variable-empty-line-before
 
 // Base colors.
-$black:                 #000;
-$nearblack:             lighten($black, 20%); // #333
-$grey-dark:             lighten($black, 40%); // #666
-$grey:                  lighten($black, 60%); // #999
-$grey-light:            lighten($black, 80%); // #ccc
-$grey-extra-light:      lighten($black, 93.33%); // #eee
+$black:                 #111417;
+$nearblack:             lighten($black, 12%);
+$grey-dark:             lighten($black, 32%);
+$grey:                  lighten($black, 55%);
+$grey-light:            lighten($black, 78%);
+$grey-extra-light:      lighten($black, 92%);
 $white:                 #fff;
 
-$blue:                  #0072b9;
-$red:                   #c00;
-$green:                 #43a808;
-$yellow:                #fd0;
+$ink:                   #1f2a33;
+$slate:                 #3f4e5a;
+$copper:                #b06a3b;
+$copper-dark:           #8c4f2b;
+$ivory:                 #f6f1e7;
+$ivory-dark:            #efe7d8;
+$mist:                  #f3f6f8;
 
-$brand:                 $nearblack;
-$brand-alt:             $grey;
-$brand-dark:            $grey-dark;
+$blue:                  #2b4b6b;
+$red:                   #b64b3b;
+$green:                 #2f7d6b;
+$yellow:                #f2d38d;
+
+$brand:                 $slate;
+$brand-alt:             $copper;
+$brand-dark:            $copper-dark;
 
 // Colour map.
 $colors: (
-  brand:                  $blue, // menu items
+  brand:                  $brand, // menu items
   brand-alt:              $brand-alt,
-  brand-dark:             $red, // mouse over colour
-  text:                   $red, // banner text
-  text-bg:                $white, // menu text color
+  brand-dark:             $brand-dark, // mouse over colour
+  text:                   $ink, // banner text
+  text-bg:                $ivory, // menu text color
   text-meta:              $grey-dark,
 
-  link:                   $black,
-  link-visited:           $black,
-  link-hover:             $red, // side right menu text
-  link-active:            $red,
+  link:                   $blue,
+  link-visited:           $blue,
+  link-hover:             $copper, // side right menu text
+  link-active:            $copper,
 
   border:                 $grey-light,
   border-dark:            $nearblack,
 
-  autocomplete:           $black,
-  autocomplete-bg:        $white,
-  autocomplete-select:    $white,
+  autocomplete:           $ink,
+  autocomplete-bg:        $ivory,
+  autocomplete-select:    $ivory,
   autocomplete-select-bg: $blue,
 
-  body-bg:                $white,
+  body-bg:                $ivory,
   header-bg:              $brand,
-  backdrop:               $green, //side margins
+  backdrop:               $ivory-dark, //side margins
 
   mobile-menu:            $brand,
   mobile-menu-cover:      rgba($black, .2),
 
-  button:                 $brand,
+  button:                 $brand-alt,
   button-hover:           $brand-dark,
-  button-text:            $white,
-  button-text-hover:      $white,
+  button-text:            $ivory,
+  button-text-hover:      $ivory,
   button-disabled:        $grey,
 
   form-error:             $red,
 
-  mark-highlight:         $red,
+  mark-highlight:         $copper-dark,
   mark-bg:                $yellow,
 
   menu-active:            $black,
 
-  preview-bg:             lighten($yellow, 43%),
+  preview-bg:             lighten($yellow, 28%),
 
-  row-stripe:             $white,
+  row-stripe:             $mist,
   row-disabled:           $grey-light,
 
   status:                 $green,
-  status-bg:              lighten($green, 62%),
-  status-highlight:       $black,
-  warning:                $black,
-  warning-bg:             lighten($yellow, 45%),
+  status-bg:              lighten($green, 56%),
+  status-highlight:       $ink,
+  warning:                $ink,
+  warning-bg:             lighten($yellow, 38%),
   warning-border:         $yellow,
   error:                  $red,
-  error-bg:               lighten($red, 57%),
+  error-bg:               lighten($red, 52%),
 
   watermark:              $grey-extra-light,
 
-  headings:               $nearblack,
+  headings:               $ink,
 
-  code:                   $nearblack,
+  code:                   $ink,
 );
